@@ -1,1 +1,125 @@
-<mxfile host="app.diagrams.net" modified="2022-03-16T00:16:16.857Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" version="16.6.3" etag="qzdM2El8PDbC6fcDGMcj" type="github"><diagram id="1Q5tROiHIrVCUAxy_fL5">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-16T00:39:10.690Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="v5DAmLIN28yY-C6wN2lA" version="16.6.3" type="github">
+  <diagram id="1Q5tROiHIrVCUAxy_fL5" name="Page-1">
+    <mxGraphModel dx="2170" dy="1150" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="aWynf4PccFx4d5w1t9dL-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="aWynf4PccFx4d5w1t9dL-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aWynf4PccFx4d5w1t9dL-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="aWynf4PccFx4d5w1t9dL-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aWynf4PccFx4d5w1t9dL-2" value="LAVAR EL CABELLO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="354" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aWynf4PccFx4d5w1t9dL-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="aWynf4PccFx4d5w1t9dL-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aWynf4PccFx4d5w1t9dL-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="aWynf4PccFx4d5w1t9dL-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aWynf4PccFx4d5w1t9dL-3" value="SECAR EL CABELLO CON UNA TOALLA O SECADOR" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="354" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aWynf4PccFx4d5w1t9dL-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="aWynf4PccFx4d5w1t9dL-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aWynf4PccFx4d5w1t9dL-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="aWynf4PccFx4d5w1t9dL-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="290" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aWynf4PccFx4d5w1t9dL-4" value="APLICAR TRATAMIENTO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="354" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aWynf4PccFx4d5w1t9dL-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aWynf4PccFx4d5w1t9dL-6" target="aWynf4PccFx4d5w1t9dL-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aWynf4PccFx4d5w1t9dL-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="aWynf4PccFx4d5w1t9dL-6" target="aWynf4PccFx4d5w1t9dL-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="aWynf4PccFx4d5w1t9dL-6" value="REPOSAR POR 15 MINUTOS" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="354" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aWynf4PccFx4d5w1t9dL-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="aWynf4PccFx4d5w1t9dL-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aWynf4PccFx4d5w1t9dL-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="aWynf4PccFx4d5w1t9dL-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="aWynf4PccFx4d5w1t9dL-7" value="ENJUAGAR CON AGUA TIBIA" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="354" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aWynf4PccFx4d5w1t9dL-8" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="389" y="790" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aWynf4PccFx4d5w1t9dL-9" value="APLICAR&lt;br&gt;TRATAMIENTO" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="374" y="60" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aWynf4PccFx4d5w1t9dL-11" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="390" y="620" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aWynf4PccFx4d5w1t9dL-12" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="400" y="150" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aWynf4PccFx4d5w1t9dL-18" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="400" y="260" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aWynf4PccFx4d5w1t9dL-19" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="400" y="370" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aWynf4PccFx4d5w1t9dL-21" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="400" y="490" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="aWynf4PccFx4d5w1t9dL-23" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="390" y="740" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aWynf4PccFx4d5w1t9dL-30" value="AGUA,SHAMPOO." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aWynf4PccFx4d5w1t9dL-31" value="ENBASES,AGUAS RECIDUALES" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aWynf4PccFx4d5w1t9dL-32" value="SECADOR ENERGIA TOALLA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aWynf4PccFx4d5w1t9dL-33" value="RUIDOS ,VAPORES AGUAS RESIDUALES" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aWynf4PccFx4d5w1t9dL-34" value="TRATAMIENTO,BOLL,&lt;br&gt;APLICADOR GUANTES" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aWynf4PccFx4d5w1t9dL-35" value="ENPAQUES , GUANTES" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aWynf4PccFx4d5w1t9dL-36" value="TEMPORIZADOR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aWynf4PccFx4d5w1t9dL-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aWynf4PccFx4d5w1t9dL-45" value="AGUA,LUZ TOALLAS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aWynf4PccFx4d5w1t9dL-46" value="AGUAS RECIDUALES ,TOALLAS DESECHABLES" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
